@@ -12,8 +12,6 @@ Reqs:
 Written in C#.
 Submitted via Github repository link. 
 
-Notes, logic:
-
 
 
 
