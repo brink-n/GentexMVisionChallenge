@@ -1,0 +1,15 @@
+/Users/nick/Gentex/MVChallenge/MVChallenge/obj/Debug/net6.0/MVChallenge.csproj.AssemblyReference.cache
+/Users/nick/Gentex/MVChallenge/MVChallenge/obj/Debug/net6.0/MVChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nick/Gentex/MVChallenge/MVChallenge/obj/Debug/net6.0/MVChallenge.AssemblyInfoInputs.cache
+/Users/nick/Gentex/MVChallenge/MVChallenge/obj/Debug/net6.0/MVChallenge.AssemblyInfo.cs
+/Users/nick/Gentex/MVChallenge/MVChallenge/obj/Debug/net6.0/MVChallenge.csproj.CoreCompileInputs.cache
+/Users/nick/Gentex/MVChallenge/MVChallenge/bin/Debug/net6.0/MVChallenge
+/Users/nick/Gentex/MVChallenge/MVChallenge/bin/Debug/net6.0/MVChallenge.deps.json
+/Users/nick/Gentex/MVChallenge/MVChallenge/bin/Debug/net6.0/MVChallenge.runtimeconfig.json
+/Users/nick/Gentex/MVChallenge/MVChallenge/bin/Debug/net6.0/MVChallenge.dll
+/Users/nick/Gentex/MVChallenge/MVChallenge/bin/Debug/net6.0/MVChallenge.pdb
+/Users/nick/Gentex/MVChallenge/MVChallenge/obj/Debug/net6.0/MVChallenge.dll
+/Users/nick/Gentex/MVChallenge/MVChallenge/obj/Debug/net6.0/refint/MVChallenge.dll
+/Users/nick/Gentex/MVChallenge/MVChallenge/obj/Debug/net6.0/MVChallenge.pdb
+/Users/nick/Gentex/MVChallenge/MVChallenge/obj/Debug/net6.0/MVChallenge.genruntimeconfig.cache
+/Users/nick/Gentex/MVChallenge/MVChallenge/obj/Debug/net6.0/ref/MVChallenge.dll
