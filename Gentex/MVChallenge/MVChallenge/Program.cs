@@ -69,7 +69,7 @@ class Program
                     centerY = double.Parse(line.Split(',')[5]);
                     break;
                 case "Equilateral Triangle":
-                    area = (double.Parse(line.Split(',')[7]) * double.Parse(line.Split(',')[7])) / 2;                            //(base * height) / 2
+                    area = (double.Parse(line.Split(',')[7]) * double.Parse(line.Split(',')[7])) / 2;                           
                     perimeter = double.Parse(line.Split(',')[7]) * 3;
                     centerX = double.Parse(line.Split(',')[3]);
                     centerY = double.Parse(line.Split(',')[5]);
